@@ -1,4 +1,5 @@
-# GOOGLE PLANILHAS
+# GOOGLE PLANILHAS E EXCEL
+Abaixo estarão aplicações que são aceitas tanto pelo Google Planilhas quanto pelo Excel.
 
 ## Como aplicar uma formatação condicional em uma linha inteira usando o resultado de uma célula apenas?
  
